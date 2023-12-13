@@ -1,0 +1,1 @@
+{"iterations": 360, "depth": 8, "scale_pos_weight": 2, "learning_rate": 0.29380668404341653, "random_strength": 29, "bagging_temperature": 0.6282438938748776, "od_type": "Iter", "l2_leaf_reg": 1.4380801971863924e-08, "sampling_strategy": 0.5117196753931231}
